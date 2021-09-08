@@ -1,1 +1,1 @@
-# fir-vhdl
+# FIR Filter - VHDL
